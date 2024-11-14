@@ -1,0 +1,8 @@
+The Tools used in variant calling workflow:
+fastqc 
+multiqc 
+bwa
+samtools 
+bcftools 
+trimmomatic 
+vcftools
