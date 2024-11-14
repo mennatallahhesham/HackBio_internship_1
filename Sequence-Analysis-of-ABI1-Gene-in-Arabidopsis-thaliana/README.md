@@ -1,1 +1,1 @@
-
+This Project facilitates ABI1 gene in Arabidopsis Thaliana sequence analysis, including tasks such as mutant pattern detection, nucleotide counting, GC percentage calculation, and gene sequence retrieval from NCBI databases.
